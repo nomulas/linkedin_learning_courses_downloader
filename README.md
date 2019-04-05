@@ -22,7 +22,7 @@ COURSES = [
     'javascript-for-web-designers-2'
 ]
 ```
-Then excecute the script:
+Then excecute the script in PYTHON2 not in PYTHON3:
 ```
 python llcd.py
 ```
